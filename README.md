@@ -1,4 +1,3 @@
-
 # Personal Website – Engineering Portfolio
 
 ## Overview
@@ -34,6 +33,7 @@ The project is intentionally built as a real-world production-ready system rathe
 - **Git Hooks:** Husky + lint-staged
 
 ---
+
 ## Local Development
 
 ### Install dependencies:
@@ -79,18 +79,21 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Roadmap
 
 ### Phase 1 – Foundation
+
 - Project setup (strict TS, ESLint, Prettier)
 - Tailwind custom theme
 - Basic layout and sections
 - Light/Dark mode
 
 ### Phase 2 – Production Readiness
+
 - Multilingual routing
 - Contact form with server validation
 - Performance optimization
 - CI configuration
 
 ### Phase 3 – Enhancements (Future)
+
 - Three.js interactive section
 - Blog (MDX)
 - Design system documentation
