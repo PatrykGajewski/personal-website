@@ -1,3 +1,4 @@
+
 # Personal Website – Engineering Portfolio
 
 ## Overview
@@ -31,6 +32,23 @@ The project is intentionally built as a real-world production-ready system rathe
 - **Domain:** Managed via OVH
 - **Linting & Formatting:** ESLint + Prettier
 - **Git Hooks:** Husky + lint-staged
+
+---
+## Local Development
+
+### Install dependencies:
+
+`npm install`
+
+### Run development server:
+
+`npm run dev`
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Build for production:
+
+`npm run build`
 
 ---
 
